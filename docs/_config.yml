@@ -17,5 +17,5 @@ profile_picture: assets/images/pp.jpg
 google_analytics: 
 
 domain: andrewlrussell.com
-basedir: /eds124br-portfolio
 url: https://andrewlrussell.com
+baseurl: /eds124br-portfolio
